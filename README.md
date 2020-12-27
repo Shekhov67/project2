@@ -1,2 +1,1 @@
-# project2
-This is project2
+this is readme2
